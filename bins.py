@@ -30,5 +30,3 @@ x = 9
 
 print(a)
 print(bsi(a, 0, len(a), x))
-
-#test
