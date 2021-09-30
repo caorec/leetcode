@@ -1,5 +1,5 @@
-# Split Linked List in Parts
-# https://leetcode.com/explore/item/3992
+# Split Linked List in Parts https://leetcode.com/explore/item/3992
+
 
 # Definition for singly-linked list.
 class ListNode:
