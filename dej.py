@@ -1,4 +1,4 @@
-#Поиск кратчайшего пути алгоритмом Дейкстры
+#Dijkstra's shortest path algorithm
 
 inf = float('inf')
 N = [

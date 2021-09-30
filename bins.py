@@ -1,4 +1,4 @@
-#Бинарный поиск с возратом индекса
+#Binary search algorithm
 
 import random
 
