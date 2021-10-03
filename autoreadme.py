@@ -45,6 +45,7 @@ def put_descriptions(descriptions, target):
     f = open(target, 'a')
     for k, v in descriptions.items():
         f.write('%s - %s' % (k, v))
+        f.write('____\n')
     f.close()
 
 put_descriptions(get_descriptions(pure_py_files(get_list_py_files(content), readme)), readme)
