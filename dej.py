@@ -13,6 +13,13 @@ N = [
     ]
 
 def shortest_path(list):
-    result = []
+    cost = [inf for x in range(len(list))]
+    cost[0] = 0
+    all = cost
+    path = [0 for x in range(len(list))]
+    w = 0
 
-    def sf
+    def sf():
+        w = cost_(min(cost))
+        for k, v in dict.items(list_[w]):
+            if 
