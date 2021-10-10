@@ -8,3 +8,5 @@ empty.py - This file without description
 ____
 dej.py - Dijkstra's shortest path algorithm
 ____
+bitwiseand.py - Bitwise AND of Numbers Range - https://leetcode.com/problems/bitwise-and-of-numbers-range/
+____
